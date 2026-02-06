@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className='w-"1200px" m-auto border-amber-500  ' >
+    <div className='w-"1200px" m-auto border-4 border-l-emerald-50  ' >
 <div className='w-"200px"'>
   abdushkur
 </div>
